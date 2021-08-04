@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DenishVaghasiya
-- 👀 I’m interested in Python, Django, ReactJS
-- 🌱 I’m currently working as freelancer agency
+- 👀 I’m working with Python, Django, ReactJS
+- 🌱 I’m currently working as freelancer.
 
 <!---
 DenishVaghasiya/DenishVaghasiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
